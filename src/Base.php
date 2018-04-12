@@ -1,5 +1,7 @@
 <?php
+
 namespace wechat;
+
 class Base
 {
     public static function world()
